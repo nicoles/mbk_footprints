@@ -1,2 +1,2 @@
 # mbk_footprints
- kailh choc footprints with mbk spacing
+This is now maintained at https://github.com/FKcaps/mbk-footprints
